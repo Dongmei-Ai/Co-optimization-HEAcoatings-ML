@@ -17,4 +17,4 @@ Note
 2.The enhanced models are saved as ML-model_H.pkl and ML-model_M.pkl. The prediction results for the models on the training set, test set, and generated data are saved in Prediction_results_H and Prediction_results_M.
 3.found_system5.csv, found_system6.csv, and found_system7.csv correspond to the traversed component spaces for five, six, and seven elements, respectively.
 4.found_pareto contains the optimal results obtained by the NSGA-II algorithm from searching in found_system5.csv, found_system6.csv, and found_system7.csv. NSGA2.py is used to implement the multi-objective optimization process.
-5.data.csv is a sample containing both hardness and modulus data within the dataset(The dataset reference file is at "Dataset reference.docx").
+5.data.csv is a sample containing both hardness and modulus data within the dataset(References for the dataset are listed in “Dataset reference.docx").
